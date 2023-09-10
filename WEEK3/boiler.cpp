@@ -10,7 +10,7 @@ int main() {
     cin >> T;
 
     while (T--) {
-    
+        cout<<"new brack";
     }
 
     return 0;
