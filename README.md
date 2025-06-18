@@ -1,2 +1,1 @@
-# DSA_AZ_C-
-this repo stores the weeek wise problem solved by me during my AZ DSA course 
+this repository is used to store the DSA solutions i have done and also some important notes about DSA and other code CS subjects 
